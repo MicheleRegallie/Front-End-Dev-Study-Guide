@@ -9,7 +9,7 @@ Index.html (all that I learned for HTML, notes on accessibility)
 
 CSS (all that I learned for CSS, notes for responsive design)
 
-* CSS Frameworks 
+CSS Frameworks 
 * CSS - Boostrap
 * CSS - SASS
 
